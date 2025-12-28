@@ -23,3 +23,4 @@ print(x.imag)
 <img width="587" height="457" alt="image" src="https://github.com/user-attachments/assets/94143d2a-0b2b-480a-8a15-fd3e5e104d8d" />
 
 ## Result
+Thus , the program has been executed succesfully.
